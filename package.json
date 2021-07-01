@@ -1,0 +1,24 @@
+{
+  "name": "my-gridsome-site",
+  "description": "Admin UI",
+  "author": "sgclaudia98 <claudia.sg2611@gmail.com>",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "vue-notifyjs": "^0.3.0",
+    "vue-clickaway": "^2.1.0",
+    "chartist": "^0.11.0",
+    "es6-promise": "^4.2.4",
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.8.3",
+    "sass-loader": "^6.0.7"
+  }
+
+}
