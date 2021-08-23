@@ -12,3 +12,6 @@ This is the project you get when you run `gridsome create new-project`.
 2. `cd my-gridsome-site` to open the folder
 3. `gridsome develop` to start a local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
+
+## Paper Dashboard Free
+For this example we used Paper Dashboard Free from Creative Tim https://www.creative-tim.com/product/paper-dashboard
